@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap-reference-app",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "0.3.17",
+    "grunt-contrib-less": "0.3.2",
+    "grunt-contrib-watch": "0.1.4"
+  }
+}
