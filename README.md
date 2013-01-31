@@ -4,7 +4,7 @@ This is a simple reference app using Bootstrap Responsive, Grunt and LESS
 
 ## Quick Start
 * Make sure you have NPM installed in your development environment.
-* Clone the repo `git clone`.
+* Clone the repo `git clone https://github.com/tcornilliac/Responsive-Bootstrap-Reference-App.git`.
 * Install the required modules
 
 ```shell
